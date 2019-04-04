@@ -4,5 +4,5 @@ simple projects in Maya, developed during the course _3D-Design_ at the HTW Berl
 
 see _shading_ branch for shading exercise
 
-<img src="images/7.PNG" height="250">
-<img src="images/4.PNG" height="250">
+<img   align="left" src="images/7.PNG" height="250">
+<img    align="left" src="images/4.PNG" height="250">
